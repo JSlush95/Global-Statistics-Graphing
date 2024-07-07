@@ -4,7 +4,6 @@ This project presents a Javascript web-based visualization tool designed to expl
 ## Features
 - Country Selection: Users can select specific regions to display corresponding data.
 - Time Lapse Visualization: Allows users to visualize changes (as an animation) in the data over the years using this interactive beeswarm chart.
-- Interactive Charts: Includes beeswarm and scatter plots for detailed data representation.
 
 ## Installation
 ``git clone https://github.com/jslush95/global-developments-statistics.git``
