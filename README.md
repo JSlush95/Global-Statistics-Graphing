@@ -5,6 +5,12 @@ This project presents a Javascript web-based visualization tool designed to expl
 - Country Selection: Users can select specific regions to display corresponding data.
 - Time Lapse Visualization: Allows users to visualize changes (as an animation) in the data over the years using this interactive beeswarm chart.
 
+
+### Note: Domain-related Knowledge
+#### Circle Size Attribute
+This secondary attribute allows for an additional dimension of data to be visualized and compared against. For example:
+- Population: Larger circles could indicate countries with larger populations, per the other attribute selected. Specifically, the use of the circle size attribute provides a visual representation of magnitude, per the other attribute. Like the weight/magnitude of population per birthrate, which simplifies a complex relationship.
+
 ## Installation
 ``git clone https://github.com/jslush95/global-developments-statistics.git``
 
