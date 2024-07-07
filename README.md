@@ -3,7 +3,7 @@ This project presents a Javascript web-based visualization tool designed to expl
 
 ## Features
 - Country Selection: Users can select specific regions to display corresponding data.
-- Time Lapse Visualization: Allows users to visualize changes in data over the years using interactive charts.
+- Time Lapse Visualization: Allows users to visualize changes (as an animation) in the data over the years using this interactive beeswarm chart.
 - Interactive Charts: Includes beeswarm and scatter plots for detailed data representation.
 
 ## Installation
