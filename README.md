@@ -41,6 +41,7 @@ The main structure of the application is defined in the ``index.html`` file. Key
 
 ### JavaScript Logic
 The JavaScript logic manages data processing and chart rendering. Key functions include:<br>
+
 ``preparebeeData(year)``
 - Collects data based on selected regions and prepares it for beeswarm chart visualization.
 
