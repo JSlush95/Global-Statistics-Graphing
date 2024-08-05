@@ -1,4 +1,4 @@
-# Global Developments - Visualization
+# Global Statistics Developments - Visualization
 This project presents a Javascript web-based visualization tool designed to explore global development statistics across various regions. It utilizes D3.js for creating dynamic charts and Bootstrap for responsive styling.
 
 ## Features
